@@ -1,0 +1,37 @@
+=== Web Access Log Analysis ===
+Total requests     : 600
+Unique visitor IPs : 60
+Total bytes served : 1,122,513
+4xx errors         : 33 (5.5%)
+5xx errors         : 10 (1.7%)
+
+Top 5 requested pages:
+  /index.html             185
+  /health                  95
+  /projects.html           82
+  /assets/style.css        58
+  /about.html              53
+
+Status code breakdown:
+  200: 520
+  302: 7
+  304: 30
+  401: 7
+  403: 7
+  404: 19
+  500: 8
+  503: 2
+
+Peak traffic hour  : 10:00-10:59 (98 requests)
+
+Requests per hour:
+  08:00 ############ 38
+  09:00 ##################### 63
+  10:00 ################################ 98
+  11:00 ########################### 82
+  12:00 ############### 45
+  13:00 ################## 54
+  14:00 ############################## 90
+  15:00 ####################### 71
+  16:00 ############ 36
+  17:00 ####### 23

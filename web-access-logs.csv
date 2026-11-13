@@ -1,0 +1,601 @@
+timestamp,ip,method,path,status,bytes,user_agent
+2026-07-20 08:08:34,203.0.113.11,GET,/index.html,200,2528,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 08:12:51,203.0.113.40,GET,/contact.html,200,1517,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 08:19:31,203.0.113.34,GET,/index.html,200,2468,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 08:33:58,203.0.113.66,GET,/assets/style.css,200,975,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 08:34:14,203.0.113.44,GET,/index.html,200,2595,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 08:37:20,203.0.113.36,GET,/index.html,200,2267,curl/8.4.0
+2026-07-20 08:40:46,203.0.113.18,GET,/index.html,200,2373,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 08:43:28,203.0.113.46,POST,/login,200,1263,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 08:46:23,203.0.113.43,POST,/login,401,1261,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 08:49:18,203.0.113.65,GET,/missing-page.html,404,321,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 08:50:14,203.0.113.33,GET,/contact.html,200,1433,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 08:52:42,203.0.113.50,GET,/index.html,200,2272,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 08:56:53,203.0.113.13,GET,/index.html,200,2221,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 09:00:13,203.0.113.52,GET,/projects.html,200,3173,curl/8.4.0
+2026-07-20 09:10:20,203.0.113.43,POST,/login,200,1307,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 09:10:40,203.0.113.29,GET,/index.html,200,2618,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 09:12:33,203.0.113.19,GET,/assets/style.css,200,885,curl/8.4.0
+2026-07-20 09:14:24,203.0.113.36,GET,/health,200,13,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 09:17:42,203.0.113.66,GET,/projects.html,200,3238,curl/8.4.0
+2026-07-20 09:21:26,203.0.113.39,GET,/missing-page.html,404,323,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 09:25:32,203.0.113.39,GET,/contact.html,200,1613,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 09:30:28,203.0.113.42,GET,/assets/style.css,200,829,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 09:31:12,203.0.113.22,GET,/health,200,15,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 09:32:16,203.0.113.25,GET,/index.html,200,2238,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 09:33:09,203.0.113.32,GET,/index.html,200,2328,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 09:36:54,203.0.113.69,GET,/missing-page.html,404,293,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 09:37:45,203.0.113.65,GET,/assets/logo.png,200,8768,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 09:47:35,203.0.113.31,GET,/index.html,200,2308,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 09:50:19,203.0.113.38,GET,/health,200,16,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 10:00:16,203.0.113.31,GET,/about.html,200,1716,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 10:08:49,203.0.113.38,GET,/contact.html,200,1381,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 10:10:23,203.0.113.36,GET,/health,200,15,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 10:16:06,203.0.113.32,GET,/index.html,200,2671,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 10:16:28,203.0.113.13,GET,/projects.html,200,2956,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 10:20:38,203.0.113.13,GET,/index.html,200,2586,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 10:21:13,203.0.113.56,GET,/admin,403,519,ELB-HealthChecker/2.0
+2026-07-20 10:21:14,203.0.113.51,GET,/about.html,200,1799,ELB-HealthChecker/2.0
+2026-07-20 10:26:58,203.0.113.33,GET,/contact.html,200,1373,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 10:28:51,203.0.113.44,GET,/assets/style.css,200,819,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 10:29:23,203.0.113.62,GET,/health,200,15,ELB-HealthChecker/2.0
+2026-07-20 10:29:58,203.0.113.65,GET,/projects.html,200,3209,ELB-HealthChecker/2.0
+2026-07-20 10:33:48,203.0.113.61,GET,/index.html,200,2625,curl/8.4.0
+2026-07-20 10:34:22,203.0.113.39,GET,/admin,401,495,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 10:36:37,203.0.113.46,GET,/index.html,200,2224,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 10:37:32,203.0.113.12,GET,/index.html,200,2523,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 10:38:02,203.0.113.25,GET,/projects.html,200,3330,ELB-HealthChecker/2.0
+2026-07-20 10:40:52,203.0.113.17,GET,/projects.html,200,3192,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 10:42:05,203.0.113.19,GET,/assets/logo.png,200,8477,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 10:45:21,203.0.113.63,GET,/index.html,200,2659,ELB-HealthChecker/2.0
+2026-07-20 10:46:00,203.0.113.20,GET,/index.html,200,2410,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 10:49:36,203.0.113.50,GET,/projects.html,200,3098,curl/8.4.0
+2026-07-20 10:50:12,203.0.113.35,GET,/assets/logo.png,200,7888,curl/8.4.0
+2026-07-20 10:52:20,203.0.113.20,POST,/login,302,1125,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 10:53:24,203.0.113.65,GET,/assets/style.css,200,906,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 10:53:42,203.0.113.18,GET,/assets/logo.png,200,7540,ELB-HealthChecker/2.0
+2026-07-20 10:55:49,203.0.113.50,GET,/assets/style.css,200,984,ELB-HealthChecker/2.0
+2026-07-20 10:56:36,203.0.113.14,POST,/login,200,1196,curl/8.4.0
+2026-07-20 10:58:52,203.0.113.33,GET,/about.html,200,1805,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 11:00:45,203.0.113.43,GET,/contact.html,200,1506,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 11:03:15,203.0.113.48,GET,/index.html,200,2427,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 11:06:54,203.0.113.52,GET,/contact.html,200,1605,ELB-HealthChecker/2.0
+2026-07-20 11:08:26,203.0.113.63,GET,/health,200,15,ELB-HealthChecker/2.0
+2026-07-20 11:10:58,203.0.113.56,GET,/assets/logo.png,200,7754,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 11:17:17,203.0.113.49,GET,/projects.html,200,3170,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 11:19:02,203.0.113.51,GET,/assets/style.css,200,962,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 11:19:42,203.0.113.37,GET,/health,200,15,ELB-HealthChecker/2.0
+2026-07-20 11:21:38,203.0.113.35,GET,/contact.html,304,0,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 11:24:16,203.0.113.62,GET,/projects.html,200,3355,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 11:27:12,203.0.113.66,GET,/missing-page.html,404,324,ELB-HealthChecker/2.0
+2026-07-20 11:29:08,203.0.113.39,GET,/projects.html,200,2825,ELB-HealthChecker/2.0
+2026-07-20 11:30:03,203.0.113.14,GET,/assets/style.css,200,979,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 11:35:34,203.0.113.55,GET,/index.html,200,2282,ELB-HealthChecker/2.0
+2026-07-20 11:41:44,203.0.113.16,GET,/index.html,200,2582,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 11:41:53,203.0.113.28,GET,/index.html,304,0,curl/8.4.0
+2026-07-20 11:42:21,203.0.113.49,GET,/about.html,200,1962,curl/8.4.0
+2026-07-20 11:44:51,203.0.113.51,GET,/about.html,200,1675,curl/8.4.0
+2026-07-20 11:48:32,203.0.113.53,GET,/index.html,200,2343,curl/8.4.0
+2026-07-20 11:51:23,203.0.113.34,GET,/projects.html,200,3062,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 11:52:11,203.0.113.53,GET,/assets/logo.png,200,7970,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 11:54:23,203.0.113.51,GET,/index.html,200,2471,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 11:55:27,203.0.113.15,GET,/health,200,14,ELB-HealthChecker/2.0
+2026-07-20 11:59:58,203.0.113.21,GET,/index.html,200,2591,ELB-HealthChecker/2.0
+2026-07-20 12:04:19,203.0.113.43,GET,/contact.html,200,1584,curl/8.4.0
+2026-07-20 12:08:32,203.0.113.65,GET,/admin,403,536,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 12:11:14,203.0.113.14,GET,/assets/style.css,500,981,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 12:19:54,203.0.113.45,GET,/contact.html,200,1624,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 12:24:09,203.0.113.60,GET,/index.html,200,2335,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 12:26:31,203.0.113.15,GET,/admin,401,521,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 12:28:34,203.0.113.34,GET,/projects.html,200,3262,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 12:33:04,203.0.113.35,GET,/assets/style.css,200,907,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 12:38:57,203.0.113.20,GET,/projects.html,200,3170,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 12:48:41,203.0.113.65,GET,/index.html,200,2587,ELB-HealthChecker/2.0
+2026-07-20 12:51:07,203.0.113.55,GET,/about.html,200,1853,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 12:55:07,203.0.113.48,GET,/index.html,200,2538,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 12:59:04,203.0.113.52,GET,/health,200,15,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 13:00:26,203.0.113.24,GET,/projects.html,200,2970,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 13:04:45,203.0.113.65,GET,/health,200,16,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 13:06:49,203.0.113.49,GET,/index.html,200,2286,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 13:17:05,203.0.113.61,GET,/about.html,200,1693,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 13:19:13,203.0.113.36,GET,/contact.html,200,1453,ELB-HealthChecker/2.0
+2026-07-20 13:27:07,203.0.113.62,GET,/projects.html,200,3353,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 13:28:22,203.0.113.37,GET,/missing-page.html,404,287,ELB-HealthChecker/2.0
+2026-07-20 13:29:26,203.0.113.34,GET,/assets/logo.png,200,8558,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 13:30:19,203.0.113.42,GET,/index.html,200,2555,curl/8.4.0
+2026-07-20 13:31:02,203.0.113.43,GET,/index.html,200,2312,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 13:32:50,203.0.113.13,GET,/assets/style.css,200,934,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 13:42:42,203.0.113.14,GET,/index.html,304,0,curl/8.4.0
+2026-07-20 13:43:24,203.0.113.19,GET,/index.html,200,2336,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 13:47:09,203.0.113.56,GET,/index.html,200,2491,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 13:48:43,203.0.113.21,GET,/assets/style.css,200,947,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 13:48:46,203.0.113.57,GET,/projects.html,200,3053,ELB-HealthChecker/2.0
+2026-07-20 13:50:30,203.0.113.37,GET,/assets/style.css,200,827,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 13:57:33,203.0.113.54,GET,/assets/logo.png,200,8858,curl/8.4.0
+2026-07-20 13:59:06,203.0.113.44,GET,/health,200,14,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 14:01:37,203.0.113.13,GET,/index.html,200,2224,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 14:03:50,203.0.113.23,GET,/about.html,500,1903,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 14:06:18,203.0.113.38,GET,/health,200,14,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 14:07:08,203.0.113.20,GET,/health,200,16,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 14:10:24,203.0.113.62,GET,/admin,401,530,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 14:10:28,203.0.113.30,GET,/index.html,200,2349,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 14:11:46,203.0.113.64,GET,/index.html,200,2485,curl/8.4.0
+2026-07-20 14:13:51,203.0.113.49,GET,/contact.html,200,1608,ELB-HealthChecker/2.0
+2026-07-20 14:15:12,203.0.113.27,GET,/index.html,200,2411,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 14:23:25,203.0.113.28,GET,/index.html,200,2564,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 14:25:26,203.0.113.60,GET,/index.html,200,2609,curl/8.4.0
+2026-07-20 14:26:23,203.0.113.28,GET,/health,200,14,ELB-HealthChecker/2.0
+2026-07-20 14:28:10,203.0.113.60,GET,/health,200,13,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 14:28:37,203.0.113.27,GET,/projects.html,200,2923,ELB-HealthChecker/2.0
+2026-07-20 14:29:23,203.0.113.22,GET,/health,200,15,ELB-HealthChecker/2.0
+2026-07-20 14:31:24,203.0.113.43,GET,/index.html,200,2496,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 14:35:03,203.0.113.17,GET,/health,200,14,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 14:35:55,203.0.113.48,GET,/health,200,13,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 14:38:51,203.0.113.53,GET,/about.html,200,1843,ELB-HealthChecker/2.0
+2026-07-20 14:39:36,203.0.113.28,GET,/about.html,200,1620,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 14:40:55,203.0.113.28,GET,/contact.html,200,1353,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 14:41:36,203.0.113.12,GET,/index.html,200,2621,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 14:42:30,203.0.113.48,POST,/login,200,1206,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 14:46:52,203.0.113.66,GET,/index.html,200,2499,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 14:47:17,203.0.113.57,GET,/index.html,200,2255,curl/8.4.0
+2026-07-20 14:47:43,203.0.113.15,GET,/index.html,200,2367,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 14:49:08,203.0.113.17,GET,/projects.html,200,2824,curl/8.4.0
+2026-07-20 14:50:34,203.0.113.62,GET,/about.html,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 14:50:44,203.0.113.13,GET,/contact.html,200,1642,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 14:51:42,203.0.113.11,GET,/projects.html,200,3337,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 14:59:47,203.0.113.45,GET,/index.html,200,2283,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 15:00:21,203.0.113.57,GET,/contact.html,200,1428,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 15:02:06,203.0.113.69,GET,/health,200,13,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 15:06:09,203.0.113.58,GET,/index.html,200,2279,ELB-HealthChecker/2.0
+2026-07-20 15:06:13,203.0.113.49,GET,/projects.html,200,3286,ELB-HealthChecker/2.0
+2026-07-20 15:08:12,203.0.113.51,GET,/assets/style.css,200,923,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 15:10:11,203.0.113.21,GET,/index.html,200,2300,ELB-HealthChecker/2.0
+2026-07-20 15:10:51,203.0.113.12,GET,/health,200,15,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 15:11:47,203.0.113.52,POST,/login,302,1178,ELB-HealthChecker/2.0
+2026-07-20 15:18:02,203.0.113.39,GET,/index.html,200,2287,curl/8.4.0
+2026-07-20 15:18:26,203.0.113.67,GET,/about.html,200,1944,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 15:18:28,203.0.113.21,GET,/index.html,200,2296,ELB-HealthChecker/2.0
+2026-07-20 15:20:23,203.0.113.58,GET,/assets/logo.png,200,8648,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 15:23:10,203.0.113.56,GET,/index.html,200,2486,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 15:23:25,203.0.113.29,GET,/projects.html,200,3222,ELB-HealthChecker/2.0
+2026-07-20 15:27:01,203.0.113.37,GET,/projects.html,200,2984,curl/8.4.0
+2026-07-20 15:31:13,203.0.113.48,GET,/about.html,200,1720,ELB-HealthChecker/2.0
+2026-07-20 15:32:56,203.0.113.51,GET,/index.html,200,2242,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 15:34:15,203.0.113.63,GET,/about.html,200,1788,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 15:34:46,203.0.113.48,GET,/assets/style.css,200,877,curl/8.4.0
+2026-07-20 15:36:06,203.0.113.22,GET,/assets/style.css,200,875,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 15:41:54,203.0.113.34,GET,/health,200,14,curl/8.4.0
+2026-07-20 15:43:19,203.0.113.25,GET,/index.html,200,2216,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 15:43:48,203.0.113.43,GET,/health,200,15,ELB-HealthChecker/2.0
+2026-07-20 15:44:07,203.0.113.40,GET,/projects.html,200,3129,ELB-HealthChecker/2.0
+2026-07-20 15:46:46,203.0.113.28,GET,/index.html,200,2318,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 15:54:14,203.0.113.36,GET,/health,200,14,curl/8.4.0
+2026-07-20 15:54:29,203.0.113.55,GET,/about.html,200,1835,ELB-HealthChecker/2.0
+2026-07-20 15:54:48,203.0.113.45,POST,/login,500,1190,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 15:57:54,203.0.113.39,GET,/assets/style.css,200,817,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 16:09:00,203.0.113.50,POST,/login,200,1209,ELB-HealthChecker/2.0
+2026-07-20 16:13:51,203.0.113.53,GET,/index.html,200,2243,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 16:18:02,203.0.113.38,GET,/index.html,200,2374,ELB-HealthChecker/2.0
+2026-07-20 16:19:43,203.0.113.65,GET,/assets/logo.png,304,0,ELB-HealthChecker/2.0
+2026-07-20 16:21:10,203.0.113.67,GET,/assets/logo.png,200,7503,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 16:43:14,203.0.113.30,GET,/projects.html,200,3374,curl/8.4.0
+2026-07-20 16:43:15,203.0.113.65,GET,/health,200,15,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 16:44:15,203.0.113.12,GET,/health,200,15,Mozilla/5.0 (Linux; Android 13)
+2026-07-20 16:46:50,203.0.113.51,GET,/assets/logo.png,200,7874,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 16:48:07,203.0.113.30,GET,/health,200,16,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 16:48:13,203.0.113.25,GET,/health,200,13,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 16:48:16,203.0.113.37,GET,/index.html,200,2448,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 16:49:34,203.0.113.50,GET,/projects.html,200,2920,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 16:51:25,203.0.113.35,GET,/health,200,15,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-20 16:59:54,203.0.113.51,GET,/index.html,200,2554,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 17:10:26,203.0.113.13,GET,/projects.html,200,3038,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-20 17:19:20,203.0.113.21,GET,/health,200,14,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-20 17:24:57,203.0.113.10,GET,/health,200,15,curl/8.4.0
+2026-07-20 17:35:48,203.0.113.59,GET,/projects.html,200,3173,curl/8.4.0
+2026-07-20 17:37:22,203.0.113.63,GET,/index.html,200,2497,ELB-HealthChecker/2.0
+2026-07-20 17:48:01,203.0.113.56,GET,/missing-page.html,404,297,curl/8.4.0
+2026-07-21 08:04:08,203.0.113.10,GET,/health,200,14,ELB-HealthChecker/2.0
+2026-07-21 08:06:39,203.0.113.57,GET,/assets/style.css,200,965,ELB-HealthChecker/2.0
+2026-07-21 08:11:49,203.0.113.36,GET,/index.html,200,2562,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 08:14:32,203.0.113.24,GET,/contact.html,200,1556,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 08:14:34,203.0.113.42,GET,/index.html,200,2232,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 08:16:52,203.0.113.35,GET,/missing-page.html,404,271,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 08:28:23,203.0.113.37,GET,/contact.html,200,1376,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 08:36:43,203.0.113.22,GET,/assets/logo.png,200,8924,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 08:42:43,203.0.113.68,GET,/assets/style.css,200,961,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 08:45:59,203.0.113.13,GET,/index.html,200,2363,ELB-HealthChecker/2.0
+2026-07-21 08:46:08,203.0.113.21,GET,/index.html,200,2571,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 08:47:20,203.0.113.53,GET,/health,200,14,curl/8.4.0
+2026-07-21 08:50:18,203.0.113.64,GET,/health,200,14,ELB-HealthChecker/2.0
+2026-07-21 08:50:28,203.0.113.37,GET,/projects.html,200,3373,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 08:53:18,203.0.113.49,GET,/index.html,200,2624,curl/8.4.0
+2026-07-21 08:58:17,203.0.113.29,GET,/assets/logo.png,200,8720,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 09:00:27,203.0.113.40,GET,/index.html,200,2511,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 09:00:46,203.0.113.14,GET,/index.html,200,2680,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 09:02:01,203.0.113.45,GET,/index.html,200,2499,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 09:05:58,203.0.113.11,GET,/index.html,200,2376,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 09:07:11,203.0.113.18,GET,/missing-page.html,404,293,ELB-HealthChecker/2.0
+2026-07-21 09:09:10,203.0.113.67,GET,/index.html,200,2511,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 09:11:03,203.0.113.31,GET,/index.html,200,2427,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 09:12:07,203.0.113.23,POST,/login,401,1102,ELB-HealthChecker/2.0
+2026-07-21 09:15:09,203.0.113.49,GET,/index.html,200,2393,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 09:17:13,203.0.113.41,GET,/contact.html,200,1579,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 09:21:45,203.0.113.45,GET,/projects.html,200,2875,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 09:26:30,203.0.113.65,GET,/projects.html,200,2879,ELB-HealthChecker/2.0
+2026-07-21 09:35:04,203.0.113.34,GET,/health,200,14,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 09:39:26,203.0.113.23,POST,/login,200,1245,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 09:40:27,203.0.113.34,GET,/about.html,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 09:41:04,203.0.113.66,GET,/projects.html,200,3003,curl/8.4.0
+2026-07-21 09:43:31,203.0.113.19,GET,/index.html,200,2328,ELB-HealthChecker/2.0
+2026-07-21 09:45:46,203.0.113.46,GET,/projects.html,200,3043,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 09:53:40,203.0.113.55,GET,/health,200,15,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 09:54:25,203.0.113.38,GET,/projects.html,200,3231,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 09:57:39,203.0.113.58,GET,/health,200,15,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 09:58:05,203.0.113.19,GET,/index.html,304,0,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 09:59:11,203.0.113.50,GET,/projects.html,200,3390,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 10:01:13,203.0.113.35,GET,/health,200,15,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 10:01:32,203.0.113.68,GET,/assets/style.css,200,955,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 10:03:32,203.0.113.25,GET,/index.html,200,2402,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 10:05:41,203.0.113.51,GET,/about.html,200,1859,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 10:12:24,203.0.113.32,GET,/assets/style.css,200,878,curl/8.4.0
+2026-07-21 10:13:12,203.0.113.27,GET,/assets/style.css,200,911,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 10:15:48,203.0.113.11,GET,/projects.html,200,3024,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 10:16:53,203.0.113.32,GET,/index.html,200,2469,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 10:19:43,203.0.113.10,GET,/projects.html,200,3152,curl/8.4.0
+2026-07-21 10:22:19,203.0.113.52,GET,/assets/style.css,200,850,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 10:24:29,203.0.113.42,GET,/projects.html,200,2952,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 10:25:08,203.0.113.25,GET,/contact.html,200,1381,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 10:25:29,203.0.113.61,GET,/index.html,200,2621,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 10:25:56,203.0.113.25,GET,/assets/logo.png,200,7814,ELB-HealthChecker/2.0
+2026-07-21 10:26:19,203.0.113.25,GET,/projects.html,200,2946,ELB-HealthChecker/2.0
+2026-07-21 10:27:09,203.0.113.21,GET,/index.html,200,2539,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 10:30:15,203.0.113.14,GET,/assets/style.css,200,863,ELB-HealthChecker/2.0
+2026-07-21 10:38:09,203.0.113.52,GET,/assets/style.css,200,842,curl/8.4.0
+2026-07-21 10:38:28,203.0.113.32,GET,/index.html,200,2492,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 10:38:45,203.0.113.12,GET,/projects.html,200,3007,ELB-HealthChecker/2.0
+2026-07-21 10:42:07,203.0.113.59,GET,/health,200,15,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 10:43:32,203.0.113.54,POST,/login,401,1264,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 10:45:45,203.0.113.32,GET,/health,200,14,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 10:45:50,203.0.113.16,GET,/health,200,14,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 10:46:20,203.0.113.13,GET,/assets/style.css,200,825,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 10:47:53,203.0.113.20,GET,/health,200,14,curl/8.4.0
+2026-07-21 10:49:18,203.0.113.40,GET,/contact.html,200,1496,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 10:50:13,203.0.113.56,GET,/projects.html,200,2850,ELB-HealthChecker/2.0
+2026-07-21 10:52:48,203.0.113.30,GET,/projects.html,200,2985,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 10:52:50,203.0.113.47,GET,/about.html,200,1822,curl/8.4.0
+2026-07-21 10:53:34,203.0.113.51,GET,/contact.html,200,1646,curl/8.4.0
+2026-07-21 10:54:44,203.0.113.24,GET,/health,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 10:57:28,203.0.113.33,POST,/login,200,1255,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 10:58:21,203.0.113.52,GET,/about.html,200,1671,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 10:58:43,203.0.113.21,GET,/index.html,200,2682,curl/8.4.0
+2026-07-21 10:59:48,203.0.113.46,POST,/login,200,1229,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 10:59:51,203.0.113.38,GET,/about.html,200,1737,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 11:00:45,203.0.113.45,GET,/projects.html,200,3394,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 11:04:28,203.0.113.35,GET,/missing-page.html,404,298,curl/8.4.0
+2026-07-21 11:07:06,203.0.113.63,GET,/contact.html,200,1452,ELB-HealthChecker/2.0
+2026-07-21 11:16:59,203.0.113.56,GET,/assets/style.css,200,886,curl/8.4.0
+2026-07-21 11:19:55,203.0.113.13,GET,/health,200,15,curl/8.4.0
+2026-07-21 11:25:26,203.0.113.26,GET,/contact.html,200,1443,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 11:29:16,203.0.113.28,GET,/health,200,14,ELB-HealthChecker/2.0
+2026-07-21 11:30:41,203.0.113.30,GET,/index.html,304,0,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 11:30:49,203.0.113.66,GET,/index.html,200,2343,curl/8.4.0
+2026-07-21 11:36:14,203.0.113.62,GET,/assets/style.css,200,985,curl/8.4.0
+2026-07-21 11:38:16,203.0.113.69,GET,/assets/style.css,200,906,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 11:38:52,203.0.113.30,GET,/index.html,200,2255,ELB-HealthChecker/2.0
+2026-07-21 11:39:41,203.0.113.59,GET,/projects.html,200,3160,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 11:40:20,203.0.113.67,GET,/assets/style.css,200,937,ELB-HealthChecker/2.0
+2026-07-21 11:40:53,203.0.113.27,GET,/about.html,200,1695,ELB-HealthChecker/2.0
+2026-07-21 11:43:08,203.0.113.26,GET,/contact.html,200,1649,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 11:44:13,203.0.113.65,GET,/about.html,200,1951,ELB-HealthChecker/2.0
+2026-07-21 11:46:41,203.0.113.32,GET,/contact.html,200,1569,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 11:48:35,203.0.113.17,GET,/index.html,500,2538,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 11:49:43,203.0.113.11,GET,/health,200,14,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 11:50:17,203.0.113.39,GET,/health,200,13,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 11:52:08,203.0.113.53,GET,/health,200,15,curl/8.4.0
+2026-07-21 11:52:14,203.0.113.69,GET,/index.html,200,2340,ELB-HealthChecker/2.0
+2026-07-21 11:52:31,203.0.113.50,GET,/index.html,304,0,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 11:55:04,203.0.113.42,GET,/admin,403,485,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 11:55:46,203.0.113.13,GET,/index.html,200,2521,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 12:02:27,203.0.113.64,GET,/index.html,200,2283,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 12:11:03,203.0.113.14,GET,/index.html,200,2260,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 12:13:42,203.0.113.52,GET,/contact.html,200,1468,ELB-HealthChecker/2.0
+2026-07-21 12:20:41,203.0.113.11,GET,/index.html,304,0,ELB-HealthChecker/2.0
+2026-07-21 12:21:20,203.0.113.54,GET,/health,200,14,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 12:22:34,203.0.113.46,GET,/about.html,200,1903,ELB-HealthChecker/2.0
+2026-07-21 12:26:38,203.0.113.31,GET,/assets/logo.png,200,7828,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 12:33:33,203.0.113.18,GET,/assets/style.css,200,840,ELB-HealthChecker/2.0
+2026-07-21 12:37:35,203.0.113.68,POST,/login,302,1089,curl/8.4.0
+2026-07-21 12:44:25,203.0.113.15,POST,/login,302,1198,curl/8.4.0
+2026-07-21 12:45:36,203.0.113.13,GET,/health,200,15,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 12:53:18,203.0.113.41,GET,/about.html,200,1823,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 12:55:19,203.0.113.14,GET,/contact.html,200,1583,curl/8.4.0
+2026-07-21 12:58:14,203.0.113.41,GET,/projects.html,200,3327,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 12:58:17,203.0.113.41,GET,/index.html,200,2516,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 13:00:31,203.0.113.42,GET,/index.html,200,2677,ELB-HealthChecker/2.0
+2026-07-21 13:03:13,203.0.113.54,GET,/assets/style.css,200,948,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 13:22:54,203.0.113.61,GET,/projects.html,200,3207,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 13:28:56,203.0.113.48,GET,/health,200,16,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 13:29:42,203.0.113.10,GET,/health,200,16,curl/8.4.0
+2026-07-21 13:35:00,203.0.113.54,GET,/index.html,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 13:37:35,203.0.113.67,GET,/index.html,200,2356,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 13:37:40,203.0.113.29,GET,/contact.html,200,1542,ELB-HealthChecker/2.0
+2026-07-21 13:44:29,203.0.113.22,GET,/index.html,200,2264,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 13:44:37,203.0.113.37,GET,/index.html,200,2600,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 13:45:47,203.0.113.49,POST,/login,302,1128,ELB-HealthChecker/2.0
+2026-07-21 13:47:37,203.0.113.18,GET,/projects.html,200,3014,curl/8.4.0
+2026-07-21 13:52:01,203.0.113.47,GET,/about.html,200,1972,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 13:58:52,203.0.113.51,GET,/index.html,503,2301,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 14:00:12,203.0.113.43,GET,/assets/style.css,304,0,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 14:02:08,203.0.113.34,GET,/index.html,200,2384,curl/8.4.0
+2026-07-21 14:02:25,203.0.113.28,GET,/index.html,200,2382,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 14:08:02,203.0.113.63,GET,/about.html,200,1851,ELB-HealthChecker/2.0
+2026-07-21 14:09:12,203.0.113.47,GET,/index.html,304,0,ELB-HealthChecker/2.0
+2026-07-21 14:09:53,203.0.113.10,GET,/assets/style.css,200,920,ELB-HealthChecker/2.0
+2026-07-21 14:10:02,203.0.113.40,GET,/projects.html,200,3216,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 14:11:46,203.0.113.68,GET,/projects.html,200,3171,curl/8.4.0
+2026-07-21 14:17:09,203.0.113.34,GET,/index.html,200,2255,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 14:20:01,203.0.113.56,GET,/about.html,200,1622,curl/8.4.0
+2026-07-21 14:22:02,203.0.113.33,GET,/index.html,200,2235,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 14:23:39,203.0.113.40,GET,/index.html,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 14:23:52,203.0.113.53,GET,/projects.html,200,3362,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 14:25:44,203.0.113.34,GET,/index.html,200,2411,ELB-HealthChecker/2.0
+2026-07-21 14:26:56,203.0.113.18,GET,/projects.html,200,2963,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 14:27:52,203.0.113.63,GET,/contact.html,200,1605,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 14:28:04,203.0.113.67,GET,/contact.html,200,1450,curl/8.4.0
+2026-07-21 14:32:14,203.0.113.60,GET,/index.html,200,2273,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 14:32:31,203.0.113.50,GET,/index.html,200,2229,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 14:32:51,203.0.113.64,GET,/contact.html,200,1359,curl/8.4.0
+2026-07-21 14:34:00,203.0.113.56,GET,/assets/style.css,200,968,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 14:35:00,203.0.113.68,GET,/projects.html,200,3405,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 14:35:32,203.0.113.62,GET,/index.html,200,2584,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 14:38:30,203.0.113.38,GET,/projects.html,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 14:43:30,203.0.113.36,GET,/projects.html,200,3191,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 14:50:04,203.0.113.59,GET,/about.html,200,1846,curl/8.4.0
+2026-07-21 14:50:40,203.0.113.45,GET,/admin,403,467,ELB-HealthChecker/2.0
+2026-07-21 14:53:30,203.0.113.45,GET,/missing-page.html,404,284,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 14:55:02,203.0.113.38,GET,/projects.html,200,3296,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 14:56:30,203.0.113.45,GET,/projects.html,200,2979,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 14:58:15,203.0.113.25,GET,/health,200,14,curl/8.4.0
+2026-07-21 15:00:48,203.0.113.16,GET,/health,200,15,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 15:02:04,203.0.113.53,GET,/index.html,200,2550,curl/8.4.0
+2026-07-21 15:09:05,203.0.113.35,GET,/contact.html,304,0,curl/8.4.0
+2026-07-21 15:10:50,203.0.113.40,GET,/health,200,13,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 15:12:40,203.0.113.49,POST,/login,200,1230,curl/8.4.0
+2026-07-21 15:16:48,203.0.113.43,GET,/index.html,200,2580,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 15:19:58,203.0.113.57,GET,/index.html,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 15:20:05,203.0.113.46,GET,/projects.html,200,2914,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 15:20:40,203.0.113.12,GET,/contact.html,200,1611,curl/8.4.0
+2026-07-21 15:21:39,203.0.113.64,GET,/health,200,16,ELB-HealthChecker/2.0
+2026-07-21 15:22:37,203.0.113.46,GET,/assets/style.css,200,960,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 15:24:41,203.0.113.27,GET,/projects.html,200,2813,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 15:25:17,203.0.113.55,GET,/index.html,200,2482,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 15:30:34,203.0.113.30,GET,/assets/style.css,200,911,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 15:38:05,203.0.113.62,GET,/index.html,200,2391,ELB-HealthChecker/2.0
+2026-07-21 15:39:27,203.0.113.14,GET,/index.html,500,2669,ELB-HealthChecker/2.0
+2026-07-21 15:45:05,203.0.113.38,GET,/projects.html,200,2943,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 15:46:56,203.0.113.37,GET,/index.html,200,2369,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 15:49:34,203.0.113.16,GET,/health,200,13,ELB-HealthChecker/2.0
+2026-07-21 15:51:55,203.0.113.65,GET,/about.html,200,1913,ELB-HealthChecker/2.0
+2026-07-21 15:53:06,203.0.113.57,GET,/index.html,200,2635,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 15:53:40,203.0.113.20,GET,/projects.html,200,3021,curl/8.4.0
+2026-07-21 16:02:06,203.0.113.37,GET,/health,200,15,curl/8.4.0
+2026-07-21 16:12:14,203.0.113.28,GET,/missing-page.html,404,279,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 16:32:20,203.0.113.18,GET,/index.html,200,2295,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 16:35:33,203.0.113.41,GET,/about.html,200,1942,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 16:38:09,203.0.113.45,GET,/index.html,200,2515,ELB-HealthChecker/2.0
+2026-07-21 16:39:20,203.0.113.42,GET,/health,200,16,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 16:45:42,203.0.113.18,GET,/about.html,200,1728,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 16:56:02,203.0.113.31,GET,/index.html,200,2257,Mozilla/5.0 (Linux; Android 13)
+2026-07-21 17:08:24,203.0.113.53,GET,/assets/style.css,200,875,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 17:23:50,203.0.113.33,GET,/missing-page.html,404,303,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 17:28:55,203.0.113.52,GET,/assets/logo.png,200,7511,curl/8.4.0
+2026-07-21 17:31:56,203.0.113.42,GET,/about.html,200,1960,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-21 17:35:41,203.0.113.40,GET,/health,200,15,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 17:44:31,203.0.113.15,GET,/about.html,200,1716,ELB-HealthChecker/2.0
+2026-07-21 17:44:58,203.0.113.18,GET,/missing-page.html,404,282,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-21 17:47:44,203.0.113.60,GET,/health,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 17:47:55,203.0.113.19,GET,/about.html,200,1966,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-21 17:55:32,203.0.113.39,GET,/assets/style.css,200,966,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 08:00:30,203.0.113.10,GET,/assets/logo.png,200,8365,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 08:12:51,203.0.113.64,GET,/index.html,200,2655,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 08:19:59,203.0.113.18,GET,/health,304,0,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 08:20:06,203.0.113.63,GET,/contact.html,200,1598,ELB-HealthChecker/2.0
+2026-07-22 08:20:58,203.0.113.16,GET,/assets/style.css,200,925,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 08:36:15,203.0.113.32,GET,/contact.html,200,1350,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 08:36:23,203.0.113.66,GET,/projects.html,500,2870,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 08:56:19,203.0.113.35,GET,/index.html,200,2297,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 08:56:46,203.0.113.68,GET,/index.html,200,2292,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 09:04:15,203.0.113.15,GET,/about.html,200,1849,ELB-HealthChecker/2.0
+2026-07-22 09:05:54,203.0.113.25,GET,/index.html,200,2535,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 09:08:57,203.0.113.59,GET,/health,200,16,ELB-HealthChecker/2.0
+2026-07-22 09:10:37,203.0.113.56,POST,/login,200,1238,curl/8.4.0
+2026-07-22 09:15:02,203.0.113.38,GET,/health,200,14,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 09:15:37,203.0.113.47,GET,/health,200,14,curl/8.4.0
+2026-07-22 09:19:46,203.0.113.55,GET,/health,200,15,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 09:23:15,203.0.113.30,GET,/about.html,200,1700,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 09:23:39,203.0.113.23,GET,/contact.html,200,1577,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 09:25:35,203.0.113.65,GET,/about.html,200,1784,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 09:27:32,203.0.113.23,GET,/about.html,200,1684,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 09:31:11,203.0.113.13,GET,/assets/logo.png,200,8432,curl/8.4.0
+2026-07-22 09:31:29,203.0.113.69,GET,/contact.html,200,1484,curl/8.4.0
+2026-07-22 09:37:02,203.0.113.16,GET,/health,200,16,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 09:37:15,203.0.113.50,GET,/index.html,200,2465,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 09:40:01,203.0.113.39,GET,/index.html,200,2389,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 09:43:40,203.0.113.43,GET,/index.html,200,2254,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 09:43:44,203.0.113.54,GET,/about.html,200,1936,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 09:43:58,203.0.113.16,GET,/index.html,200,2249,ELB-HealthChecker/2.0
+2026-07-22 09:45:14,203.0.113.14,GET,/projects.html,200,3289,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 09:48:17,203.0.113.20,GET,/contact.html,200,1438,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 09:48:44,203.0.113.56,GET,/index.html,200,2442,curl/8.4.0
+2026-07-22 09:55:31,203.0.113.49,GET,/projects.html,200,3160,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 09:56:23,203.0.113.26,GET,/projects.html,200,3304,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 10:00:02,203.0.113.33,GET,/assets/style.css,200,818,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 10:01:46,203.0.113.28,GET,/projects.html,200,3061,ELB-HealthChecker/2.0
+2026-07-22 10:03:43,203.0.113.48,GET,/index.html,200,2412,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 10:05:15,203.0.113.59,GET,/projects.html,200,3166,ELB-HealthChecker/2.0
+2026-07-22 10:05:53,203.0.113.22,GET,/index.html,200,2641,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 10:09:53,203.0.113.61,GET,/health,200,15,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 10:10:20,203.0.113.46,GET,/missing-page.html,404,287,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 10:11:49,203.0.113.30,GET,/index.html,200,2688,ELB-HealthChecker/2.0
+2026-07-22 10:15:36,203.0.113.31,GET,/assets/style.css,200,971,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 10:15:40,203.0.113.11,GET,/missing-page.html,404,302,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 10:18:01,203.0.113.27,GET,/missing-page.html,404,309,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 10:20:51,203.0.113.55,GET,/contact.html,200,1527,ELB-HealthChecker/2.0
+2026-07-22 10:24:58,203.0.113.38,GET,/health,200,14,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 10:25:32,203.0.113.61,GET,/index.html,200,2554,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 10:27:36,203.0.113.58,GET,/about.html,200,1865,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 10:27:52,203.0.113.37,GET,/contact.html,200,1464,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 10:28:07,203.0.113.67,GET,/health,200,14,curl/8.4.0
+2026-07-22 10:28:49,203.0.113.51,GET,/assets/style.css,200,885,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 10:32:33,203.0.113.33,GET,/health,200,15,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 10:33:18,203.0.113.54,GET,/projects.html,200,2851,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 10:33:29,203.0.113.39,GET,/index.html,200,2620,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 10:36:11,203.0.113.67,GET,/about.html,200,1831,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 10:36:20,203.0.113.25,GET,/health,200,15,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 10:40:50,203.0.113.32,GET,/projects.html,304,0,curl/8.4.0
+2026-07-22 10:42:47,203.0.113.10,GET,/index.html,200,2272,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 10:43:21,203.0.113.34,POST,/login,302,1096,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 10:44:35,203.0.113.13,GET,/index.html,200,2581,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 10:44:42,203.0.113.29,GET,/about.html,200,1957,curl/8.4.0
+2026-07-22 10:47:45,203.0.113.16,GET,/index.html,200,2677,curl/8.4.0
+2026-07-22 10:48:58,203.0.113.15,GET,/index.html,200,2369,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 10:50:39,203.0.113.48,GET,/projects.html,200,3351,curl/8.4.0
+2026-07-22 10:55:24,203.0.113.19,GET,/health,200,16,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 11:02:37,203.0.113.56,GET,/contact.html,200,1406,ELB-HealthChecker/2.0
+2026-07-22 11:02:52,203.0.113.59,GET,/assets/style.css,200,980,curl/8.4.0
+2026-07-22 11:04:34,203.0.113.14,GET,/missing-page.html,404,326,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 11:05:25,203.0.113.61,GET,/about.html,200,1705,curl/8.4.0
+2026-07-22 11:07:03,203.0.113.44,GET,/assets/style.css,200,846,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 11:08:50,203.0.113.32,GET,/index.html,200,2234,curl/8.4.0
+2026-07-22 11:17:52,203.0.113.47,GET,/index.html,200,2615,ELB-HealthChecker/2.0
+2026-07-22 11:19:10,203.0.113.39,GET,/index.html,200,2669,ELB-HealthChecker/2.0
+2026-07-22 11:20:35,203.0.113.65,GET,/index.html,200,2304,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 11:20:44,203.0.113.58,GET,/projects.html,200,3023,curl/8.4.0
+2026-07-22 11:23:26,203.0.113.61,GET,/health,200,15,ELB-HealthChecker/2.0
+2026-07-22 11:25:47,203.0.113.24,GET,/index.html,200,2263,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 11:26:18,203.0.113.61,GET,/index.html,200,2364,curl/8.4.0
+2026-07-22 11:28:05,203.0.113.30,GET,/assets/style.css,304,0,ELB-HealthChecker/2.0
+2026-07-22 11:28:05,203.0.113.41,GET,/assets/style.css,200,831,ELB-HealthChecker/2.0
+2026-07-22 11:28:07,203.0.113.45,GET,/index.html,200,2215,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 11:28:29,203.0.113.36,GET,/contact.html,200,1500,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 11:29:33,203.0.113.53,GET,/index.html,200,2666,ELB-HealthChecker/2.0
+2026-07-22 11:30:11,203.0.113.29,GET,/about.html,200,1711,curl/8.4.0
+2026-07-22 11:30:40,203.0.113.39,GET,/index.html,200,2555,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 11:30:51,203.0.113.59,GET,/health,200,15,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 11:32:13,203.0.113.32,GET,/index.html,200,2620,curl/8.4.0
+2026-07-22 11:32:47,203.0.113.60,GET,/assets/logo.png,200,7833,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 11:34:33,203.0.113.64,GET,/projects.html,304,0,curl/8.4.0
+2026-07-22 11:36:09,203.0.113.66,GET,/health,200,16,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 11:38:41,203.0.113.42,GET,/about.html,200,1863,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 11:39:58,203.0.113.53,GET,/health,304,0,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 11:44:34,203.0.113.36,GET,/projects.html,200,2885,ELB-HealthChecker/2.0
+2026-07-22 11:48:27,203.0.113.48,GET,/assets/style.css,200,984,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 11:55:19,203.0.113.47,GET,/projects.html,200,3020,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 11:57:30,203.0.113.48,GET,/contact.html,200,1546,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 11:58:23,203.0.113.47,GET,/index.html,200,2324,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 12:00:44,203.0.113.60,GET,/index.html,200,2417,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 12:10:23,203.0.113.31,GET,/about.html,200,1767,ELB-HealthChecker/2.0
+2026-07-22 12:14:10,203.0.113.62,GET,/index.html,200,2335,ELB-HealthChecker/2.0
+2026-07-22 12:16:05,203.0.113.34,GET,/health,200,14,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 12:19:02,203.0.113.23,GET,/index.html,500,2231,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 12:21:27,203.0.113.67,GET,/assets/logo.png,503,7942,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 12:26:34,203.0.113.54,GET,/index.html,304,0,curl/8.4.0
+2026-07-22 12:27:05,203.0.113.12,GET,/index.html,200,2244,ELB-HealthChecker/2.0
+2026-07-22 12:28:31,203.0.113.42,GET,/index.html,200,2299,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 12:30:48,203.0.113.36,GET,/assets/style.css,200,876,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 12:31:26,203.0.113.46,GET,/contact.html,200,1400,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 12:40:43,203.0.113.29,GET,/index.html,200,2480,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 12:44:39,203.0.113.32,GET,/index.html,200,2326,ELB-HealthChecker/2.0
+2026-07-22 12:45:32,203.0.113.50,GET,/contact.html,200,1470,curl/8.4.0
+2026-07-22 12:52:25,203.0.113.18,GET,/index.html,200,2418,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 12:52:48,203.0.113.52,GET,/missing-page.html,404,270,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 12:53:47,203.0.113.59,GET,/assets/logo.png,200,7932,curl/8.4.0
+2026-07-22 13:00:16,203.0.113.17,GET,/health,200,13,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 13:03:37,203.0.113.59,GET,/projects.html,200,3237,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 13:13:58,203.0.113.44,GET,/index.html,200,2643,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 13:15:06,203.0.113.61,GET,/health,200,15,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 13:15:06,203.0.113.10,GET,/projects.html,200,2876,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 13:17:18,203.0.113.35,GET,/index.html,200,2391,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 13:18:19,203.0.113.63,GET,/index.html,200,2485,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 13:19:31,203.0.113.55,GET,/assets/style.css,200,823,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 13:20:03,203.0.113.43,GET,/index.html,200,2655,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 13:20:45,203.0.113.46,GET,/index.html,200,2440,ELB-HealthChecker/2.0
+2026-07-22 13:26:06,203.0.113.48,GET,/index.html,200,2250,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 13:34:51,203.0.113.37,GET,/health,200,14,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 13:35:01,203.0.113.11,GET,/health,200,15,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 13:35:01,203.0.113.33,GET,/about.html,200,1848,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 13:38:33,203.0.113.17,GET,/projects.html,200,2937,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 13:41:21,203.0.113.28,GET,/index.html,200,2537,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 13:43:41,203.0.113.37,GET,/about.html,200,1967,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 13:49:47,203.0.113.67,GET,/admin,403,533,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 13:56:53,203.0.113.41,GET,/contact.html,200,1494,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 13:57:32,203.0.113.20,GET,/projects.html,200,3066,ELB-HealthChecker/2.0
+2026-07-22 13:59:11,203.0.113.30,GET,/health,200,13,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 14:02:48,203.0.113.49,GET,/index.html,200,2616,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 14:04:46,203.0.113.11,GET,/index.html,200,2453,curl/8.4.0
+2026-07-22 14:06:05,203.0.113.58,GET,/health,200,14,curl/8.4.0
+2026-07-22 14:08:26,203.0.113.17,GET,/assets/style.css,200,939,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 14:08:28,203.0.113.65,GET,/index.html,200,2482,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 14:08:33,203.0.113.43,GET,/index.html,200,2529,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 14:09:04,203.0.113.38,GET,/projects.html,200,3193,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 14:16:39,203.0.113.27,GET,/projects.html,304,0,curl/8.4.0
+2026-07-22 14:20:55,203.0.113.14,GET,/admin,403,465,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 14:21:01,203.0.113.21,GET,/index.html,304,0,curl/8.4.0
+2026-07-22 14:24:05,203.0.113.14,GET,/contact.html,200,1423,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 14:24:26,203.0.113.41,GET,/health,200,14,ELB-HealthChecker/2.0
+2026-07-22 14:25:31,203.0.113.34,GET,/index.html,200,2512,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 14:26:23,203.0.113.61,GET,/assets/logo.png,200,8083,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 14:30:41,203.0.113.28,GET,/contact.html,200,1355,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 14:32:12,203.0.113.62,GET,/assets/logo.png,200,8572,ELB-HealthChecker/2.0
+2026-07-22 14:34:26,203.0.113.10,GET,/index.html,200,2601,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 14:39:12,203.0.113.35,GET,/projects.html,200,2794,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 14:46:36,203.0.113.65,GET,/index.html,304,0,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 14:47:09,203.0.113.23,GET,/assets/logo.png,200,8105,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 14:47:57,203.0.113.61,GET,/assets/style.css,200,962,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 14:53:08,203.0.113.29,GET,/health,200,15,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 14:54:07,203.0.113.67,GET,/index.html,200,2338,curl/8.4.0
+2026-07-22 14:55:29,203.0.113.60,GET,/index.html,200,2334,ELB-HealthChecker/2.0
+2026-07-22 14:56:21,203.0.113.14,GET,/projects.html,200,2944,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 14:58:38,203.0.113.19,GET,/assets/logo.png,200,8335,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 14:58:51,203.0.113.51,GET,/about.html,500,1905,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 14:59:27,203.0.113.68,GET,/assets/style.css,200,901,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 15:00:33,203.0.113.41,POST,/login,200,1252,curl/8.4.0
+2026-07-22 15:01:25,203.0.113.14,GET,/index.html,200,2311,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 15:07:55,203.0.113.65,GET,/health,200,14,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 15:08:55,203.0.113.45,GET,/index.html,200,2633,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 15:10:42,203.0.113.31,GET,/index.html,200,2515,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 15:13:37,203.0.113.19,GET,/index.html,200,2365,curl/8.4.0
+2026-07-22 15:21:50,203.0.113.40,GET,/index.html,200,2654,ELB-HealthChecker/2.0
+2026-07-22 15:24:30,203.0.113.64,GET,/index.html,200,2574,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 15:30:28,203.0.113.23,GET,/health,200,13,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 15:33:14,203.0.113.47,GET,/about.html,200,1820,ELB-HealthChecker/2.0
+2026-07-22 15:33:35,203.0.113.67,GET,/health,304,0,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 15:37:33,203.0.113.46,GET,/assets/style.css,200,836,curl/8.4.0
+2026-07-22 15:42:52,203.0.113.40,GET,/index.html,200,2425,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 15:43:25,203.0.113.35,GET,/admin,403,459,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 15:45:45,203.0.113.48,GET,/health,200,15,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 15:46:26,203.0.113.69,GET,/index.html,200,2296,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 15:50:02,203.0.113.42,GET,/about.html,200,1753,ELB-HealthChecker/2.0
+2026-07-22 15:50:22,203.0.113.29,GET,/index.html,200,2290,ELB-HealthChecker/2.0
+2026-07-22 15:55:44,203.0.113.51,GET,/health,200,14,curl/8.4.0
+2026-07-22 15:56:49,203.0.113.66,GET,/projects.html,200,3056,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 16:04:38,203.0.113.39,GET,/health,200,14,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 16:05:43,203.0.113.21,GET,/index.html,200,2354,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 16:19:56,203.0.113.31,GET,/projects.html,200,3206,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 16:26:44,203.0.113.47,GET,/assets/logo.png,200,8606,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 16:31:01,203.0.113.43,GET,/index.html,200,2210,ELB-HealthChecker/2.0
+2026-07-22 16:43:27,203.0.113.51,GET,/health,200,14,ELB-HealthChecker/2.0
+2026-07-22 16:43:39,203.0.113.38,GET,/index.html,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 16:43:46,203.0.113.37,POST,/login,302,1127,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 16:48:46,203.0.113.52,GET,/health,200,14,ELB-HealthChecker/2.0
+2026-07-22 16:54:30,203.0.113.41,GET,/assets/style.css,200,823,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 16:57:43,203.0.113.36,GET,/assets/style.css,200,945,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-07-22 16:58:00,203.0.113.33,GET,/health,200,13,Mozilla/5.0 (Linux; Android 13)
+2026-07-22 16:59:30,203.0.113.16,GET,/index.html,200,2250,ELB-HealthChecker/2.0
+2026-07-22 17:01:58,203.0.113.51,GET,/about.html,200,1629,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 17:08:44,203.0.113.63,GET,/assets/style.css,200,938,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 17:09:59,203.0.113.61,POST,/login,401,1314,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 17:16:09,203.0.113.58,GET,/assets/style.css,200,863,curl/8.4.0
+2026-07-22 17:33:08,203.0.113.15,GET,/about.html,200,1738,Mozilla/5.0 (iPhone; CPU iPhone OS 16_0)
+2026-07-22 17:38:18,203.0.113.28,GET,/missing-page.html,404,319,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15)
+2026-07-22 17:53:19,203.0.113.41,GET,/health,200,15,ELB-HealthChecker/2.0

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" font-family="Arial, sans-serif" font-size="13">
+  <rect width="900" height="560" fill="#ffffff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#232f3e">AWS Internship Project: Architecture (ap-south-1)</text>
+
+  <rect x="20" y="50" width="130" height="60" rx="8" fill="#eef2ff" stroke="#4f46e5"/>
+  <text x="85" y="76" text-anchor="middle">Intern IAM User</text>
+  <text x="85" y="94" text-anchor="middle" font-size="11" fill="#555">MFA, group policies</text>
+
+  <rect x="190" y="50" width="450" height="300" rx="10" fill="#f8fafc" stroke="#232f3e" stroke-width="2"/>
+  <text x="205" y="72" font-weight="bold">VPC 10.0.0.0/16</text>
+  <rect x="215" y="90" width="400" height="240" rx="8" fill="#ecfdf5" stroke="#059669"/>
+  <text x="230" y="110" font-weight="bold" fill="#065f46">Public subnet 10.0.1.0/24 (route 0.0.0.0/0 to IGW)</text>
+
+  <rect x="260" y="135" width="220" height="130" rx="8" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="370" y="165" text-anchor="middle" font-weight="bold">EC2 t3.micro</text>
+  <text x="370" y="185" text-anchor="middle">Ubuntu + Apache</text>
+  <text x="370" y="205" text-anchor="middle" font-size="11" fill="#555">Security group: 22 (my IP), 80</text>
+  <text x="370" y="225" text-anchor="middle" font-size="11" fill="#555">Instance role: InternshipEC2Role</text>
+  <text x="370" y="250" text-anchor="middle" font-size="11" fill="#555">Root EBS volume (gp3, 8 GiB)</text>
+
+  <rect x="660" y="190" width="120" height="50" rx="8" fill="#fef3c7" stroke="#d97706"/>
+  <text x="720" y="220" text-anchor="middle">Internet Gateway</text>
+  <rect x="800" y="190" width="80" height="50" rx="25" fill="#e0f2fe" stroke="#0284c7"/>
+  <text x="840" y="220" text-anchor="middle">Internet</text>
+  <line x1="640" y1="215" x2="660" y2="215" stroke="#333"/>
+  <line x1="780" y1="215" x2="800" y2="215" stroke="#333"/>
+  <line x1="480" y1="215" x2="640" y2="215" stroke="#333" stroke-dasharray="4"/>
+
+  <line x1="150" y1="80" x2="190" y2="80" stroke="#333"/>
+
+  <rect x="20" y="400" width="150" height="70" rx="8" fill="#fce7f3" stroke="#db2777"/>
+  <text x="95" y="430" text-anchor="middle" font-weight="bold">S3 bucket</text>
+  <text x="95" y="450" text-anchor="middle" font-size="11">assets/ data/ logs/date/</text>
+  <line x1="320" y1="265" x2="140" y2="400" stroke="#333"/>
+  <text x="200" y="320" font-size="11" fill="#555">IAM role (no keys)</text>
+
+  <rect x="200" y="400" width="150" height="70" rx="8" fill="#f3e8ff" stroke="#9333ea"/>
+  <text x="275" y="430" text-anchor="middle" font-weight="bold">EBS Snapshot</text>
+  <text x="275" y="450" text-anchor="middle" font-size="11">backup + restore plan</text>
+  <line x1="370" y1="265" x2="290" y2="400" stroke="#333"/>
+
+  <rect x="390" y="400" width="150" height="70" rx="8" fill="#e0f2fe" stroke="#0284c7"/>
+  <text x="465" y="430" text-anchor="middle" font-weight="bold">CloudWatch</text>
+  <text x="465" y="450" text-anchor="middle" font-size="11">CPU + status alarms, logs</text>
+  <line x1="420" y1="265" x2="450" y2="400" stroke="#333"/>
+
+  <rect x="580" y="400" width="120" height="70" rx="8" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="640" y="430" text-anchor="middle" font-weight="bold">SNS topic</text>
+  <text x="640" y="450" text-anchor="middle" font-size="11">email alerts</text>
+  <line x1="540" y1="435" x2="580" y2="435" stroke="#333"/>
+
+  <rect x="730" y="400" width="150" height="70" rx="8" fill="#fef9c3" stroke="#ca8a04"/>
+  <text x="805" y="430" text-anchor="middle" font-weight="bold">AWS Budgets</text>
+  <text x="805" y="450" text-anchor="middle" font-size="11">alerts at $1 and $3</text>
+  <line x1="700" y1="435" x2="730" y2="435" stroke="#333" stroke-dasharray="4"/>
+
+  <text x="450" y="520" text-anchor="middle" font-size="12" fill="#555">Tags on all resources: Project=InternshipAWS, Env=Demo, Owner=yourname. No NAT, ALB, RDS.</text>
+</svg>
